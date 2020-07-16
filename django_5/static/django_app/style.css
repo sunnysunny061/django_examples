@@ -1,0 +1,11 @@
+body {
+    background: white url("images/conda.jpg") no-repeat;
+}
+.jumbotron{
+  font-family: 'Anton', sans-serif;
+  font-style: italic;
+  color: brown;
+  text-align: center;
+  border: 20px  red;
+  border-radius: 25px;
+}
